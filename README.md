@@ -17,7 +17,7 @@ movies
 
 ## Screenshots
 
-![](imgs/1-create-db.pn)
+![](imgs/1-create-db.png)
 ![](imgs/2-import-movies.png)
 ![](imgs/3-check-data.png)
 ![](imgs/4-index.php.png)
