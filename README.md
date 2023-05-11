@@ -14,3 +14,13 @@ movies
 ├── movies-score.php
 └── movies-year.php
 </pre>
+
+## Screenshots
+
+![](imgs/1-create-db.pn)
+![](imgs/2-import-movies.png)
+![](imgs/3-check-data.png)
+![](imgs/4-index.php.png)
+![](imgs/5-year.png)
+![](imgs/6-score.png)
+![](imgs/7-highest.png)
