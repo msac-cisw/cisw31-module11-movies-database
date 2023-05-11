@@ -2,6 +2,7 @@
 
 These files go along with an assignment to display data from a movie database.
 
+<pre>
 movies
 ├── includes
 │   ├── db-connect.php
@@ -12,3 +13,4 @@ movies
 ├── movies-highest.php
 ├── movies-score.php
 └── movies-year.php
+</pre>
